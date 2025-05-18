@@ -22,6 +22,9 @@ allarray.reverse();
 console.log(allarray);
 
 
+//all done 
+
+
 
 
 
